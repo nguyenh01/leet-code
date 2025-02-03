@@ -19,7 +19,7 @@ Example 4:
 	Output: true
 
 Constraints:
-	1 <= s.length <= 104
+	1 <= s.length <= 10^4
 	s consists of parentheses only '()[]{}'.
 
 Topics: String, Stack
