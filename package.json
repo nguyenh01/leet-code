@@ -1,0 +1,15 @@
+{
+  "name": "leet-code",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nguyen Duong"
+  },
+  "description": "Leet Code",
+  "private": true,
+  "devDependencies": {
+    "prettier": "3.3.3",
+    "eslint": "8.55.0",
+    "eslint-config-prettier": "9.1.0",
+    "eslint-plugin-prettier": "5.2.1"
+  }
+}
